@@ -1,4 +1,4 @@
-import { CalcController } from './calculator.controller';
+import { CalcController } from '../calculator.controller';
 import { Test } from '@nestjs/testing';
 
 describe('CalcController', () => {
